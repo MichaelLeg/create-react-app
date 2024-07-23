@@ -7,7 +7,7 @@ import {
   getPaginationRowModel,
   getSortedRowModel,
 } from "@tanstack/react-table";
-import User from "./components/User";
+import User from "./User";
 
 interface UsersTableProps {
   data: User[];

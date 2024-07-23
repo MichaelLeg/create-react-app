@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import UsersTable from "../UsersTable";
+import UsersTable from "../components/UsersTable";
 import { useQuery, UseQueryResult } from "@tanstack/react-query";
 import User from "../components/User";
 
